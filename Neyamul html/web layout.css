@@ -86,3 +86,15 @@
 
             color: aquamarine;
         }
+
+
+        #footer{
+            
+                color: rgb(255, 255, 255);
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+        #footer p{
+
+            margin: 10px 0px 0px 45px;
+            font-style:oblique;
+        }
